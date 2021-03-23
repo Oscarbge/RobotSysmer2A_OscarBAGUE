@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Bonjour, ceci est un test
 coucou toi :D
 heh moi aussi j'ai réussi
+=======
+Bonjour, ceci est un test ceci est un test
+>>>>>>> 1ed7437c4692301be7822923cec15f6bbfcb7212
